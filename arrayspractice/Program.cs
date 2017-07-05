@@ -12,9 +12,9 @@ namespace arrayspractice
 
         {
             //declaring without initializing
-           // int[] myFirstArray;
+            // int[] myFirstArray;
             //declaring and initializing a second array
-          //  string[] myStringArray = { "first", "second", "third", "fourth" };
+            //  string[] myStringArray = { "first", "second", "third", "fourth" };
             //declaring and initializing a char array with last name
             //char[] lastName = { 'v', 'a', 's', 'a', 'v', 'a', 'd', 'a' };
             //Console.WriteLine(lastName[0]);
@@ -30,10 +30,38 @@ namespace arrayspractice
             //string[] vacationSpots = { "Cooperstown", "Bahamas", "Nyc", "Jamaica", "France", "North Carolina", "Austin", "Seattle", "Boston","Toronto" };
             //Console.WriteLine(vacationSpots[0]);
             //Console.WriteLine(vacationSpots[9]);
-            int[] childrenAges = {5,3,4};
-            Console.WriteLine(childrenAges[0]);
-            Console.WriteLine(childrenAges[1]);
-            Console.WriteLine(childrenAges[2]);
+            //    int[] childrenAges = {5,3,4};
+            //    Console.WriteLine(childrenAges[0]);
+            //    Console.WriteLine(childrenAges[1]);
+            //    Console.WriteLine(childrenAges[2]);
+
+
+            //datatype[] nameOfArray=new data type[#ofElements];
+            int[] numberOftSeats = new int[21];
+            string[] studentsInClass =new string [21];
+            //nameOfArray[index]= Elememt;
+            studentsInClass[0] = "Jordan";
+            Console.WriteLine("Please enter the name of the next student");
+            studentsInClass[1] = Console.ReadLine();
+            Console.WriteLine("The student in the second seat is {0}", studentsInClass);
+            int[] ageofStudentInClass = new int[21];
+            ageofStudentInClass[0] = int.Parse(Console.ReadLine());
+            Console.WriteLine("the age of the first student in the first seat is " + ageofStudentInClass[0]);
+            string firstIndex = ageofStudentInClass[0].ToString();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         }
     }
-}
+        }
