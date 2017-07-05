@@ -71,22 +71,30 @@ namespace arrayspractice
 
             //the index position first matching value found
 
-          //  int[] bestYearsEver = { 1985, 1999, 1998, 1991 };
-         //   Console.WriteLine(Array.IndexOf(bestYearsEver, 1985));
+            //int[] bestYearsEver = { 1985, 1999, 1998, 1991 };
+            //Console.WriteLine(Array.IndexOf(bestYearsEver, 1985));
 
             //reverse method
 
-            int[] palindromeNumbers = { 1, 2, 3, 4, 5, 6, 7 };
-            Console.WriteLine(palindromeNumbers[0]);
-            Array.Reverse(palindromeNumbers);
-            Console.WriteLine(palindromeNumbers[0]);
+            //   int[] palindromeNumbers = { 1, 2, 3, 4, 5, 6, 7 };
+            //Console.WriteLine(palindromeNumbers[0]);
+            //Array.Reverse(palindromeNumbers);
+            //Console.WriteLine(palindromeNumbers[0]);
+
+            //Sort
+            //Will sort numbers in array from low to high
+            //will sort char's and strings in alpha order A-Z
+
+            // string[] powerRangers = { "Green", "Yellow", "Pink", "Blue", "Red", "Black" };
+            //   Console.WriteLine(powerRangers[0]);
+
+
+            //  string[] firstNames = { "Bill", "Horace", "Reggie", "Arnold" };
+            //  Console.WriteLine(Array.IndexOf(firstNames, "Horace"));
+
+            int[] luckyNumbers = { 7, 7, 6, 3, 2, 12, 12 };
+            Console.WriteLine(Array.LastIndexOf(luckyNumbers,7));
             
-
-
-
-
-
-
 
 
 
