@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Conditionals")]
+[assembly: AssemblyTitle("arrayspractice")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Conditionals")]
+[assembly: AssemblyProduct("arrayspractice")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c246c4e7-fb1e-488f-905b-9ae57ce4b59d")]
+[assembly: Guid("cd2e7cc2-aa48-4ac1-a4ce-f52e6de88957")]
 
 // Version information for an assembly consists of the following four values:
 //

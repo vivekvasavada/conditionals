@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\arrayspractice\arrayspractice\bin\Debug\arrayspractice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\arrayspractice\arrayspractice\bin\Debug\arrayspractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\arrayspractice\arrayspractice\bin\Debug\arrayspractice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\arrayspractice\arrayspractice\obj\Debug\arrayspractice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\arrayspractice\arrayspractice\obj\Debug\arrayspractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\arrayspractice\arrayspractice\obj\Debug\arrayspractice.pdb

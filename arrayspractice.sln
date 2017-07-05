@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{C246C4E7-FB1E-488F-905B-9AE57CE4B59D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayspractice", "arrayspractice\arrayspractice.csproj", "{CD2E7CC2-AA48-4AC1-A4CE-F52E6DE88957}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C246C4E7-FB1E-488F-905B-9AE57CE4B59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C246C4E7-FB1E-488F-905B-9AE57CE4B59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C246C4E7-FB1E-488F-905B-9AE57CE4B59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C246C4E7-FB1E-488F-905B-9AE57CE4B59D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2E7CC2-AA48-4AC1-A4CE-F52E6DE88957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2E7CC2-AA48-4AC1-A4CE-F52E6DE88957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2E7CC2-AA48-4AC1-A4CE-F52E6DE88957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2E7CC2-AA48-4AC1-A4CE-F52E6DE88957}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
